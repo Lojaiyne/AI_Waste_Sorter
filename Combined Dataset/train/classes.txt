@@ -1,3 +1,0 @@
-metal
-plastic
-paper
